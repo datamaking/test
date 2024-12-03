@@ -1,2 +1,4 @@
 hi sir
 hi madam
+git commands
+started learning MLOps
